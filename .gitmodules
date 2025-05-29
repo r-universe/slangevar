@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "DyadiCarma"]
 	path = DyadiCarma
-	url = https://github.com/cran/DyadiCarma
+	url = https://github.com/slangevar/dyadicarma
